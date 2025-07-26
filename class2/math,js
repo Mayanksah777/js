@@ -1,0 +1,3 @@
+console.log(Math.random());//generate random numbers
+console.log(Math.ceil(5.9));
+//read assignment
